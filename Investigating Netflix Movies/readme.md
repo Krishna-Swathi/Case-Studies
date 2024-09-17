@@ -7,3 +7,9 @@ You have been supplied with the dataset netflix_data.csv , along with the follow
 Perform exploratory data analysis on the netflix_data.csv data to understand more about movies from the 1990s decade.
 1. What was the most frequent movie duration in the 1990s? Save an approximate answer as an integer called duration (use 1990 as the decade's start year).
 2. A movie is considered short if it is less than 90 minutes. Count the number of short action movies released in the 1990s and save this integer as short_movie_count.
+
+
+Files:
+netflix_data.csv - netflix data
+code.py - python code to solve case study
+notebook.ipynb - python code to solve case study
