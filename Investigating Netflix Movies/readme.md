@@ -13,3 +13,7 @@ Files:
 netflix_data.csv - netflix data
 code.py - python code to solve case study
 notebook.ipynb - python code to solve case study
+
+Tools/skills used and knowledge gained:
+Python (NumPy, Matplotlib)
+Using python for data manipulation and visualization
